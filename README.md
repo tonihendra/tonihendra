@@ -1,4 +1,4 @@
-<h1 align="center">👋 Halo, Saya <span style="color:#FFD700;">USERNAME</span></h1>
+<h1 align="center">👋 Halo, Saya <span style="color:#FFD700;">tonihendra</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=FFD700&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Open+Source+Enthusiast;Always+learning+new+things...;Welcome+to+my+GitHub+profile!+😄" alt="Typing Animation">
@@ -18,7 +18,7 @@ Saya seorang developer yang fokus pada pengembangan web dan teknologi open sourc
 
 ### 🧮 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonihendra&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" height="160">
 </p>
 
@@ -26,7 +26,7 @@ Saya seorang developer yang fokus pada pengembangan web dan teknologi open sourc
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&margin-w=15&title=Commit,Stars,Followers,Repositories,Issues" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=tonihendra&theme=onestar&no-frame=true&margin-w=15&title=Commit,Stars,Followers,Repositories,Issues" alt="Trophies">
 </p>
 
 ---
@@ -46,7 +46,7 @@ Saya seorang developer yang fokus pada pengembangan web dan teknologi open sourc
 
 ### 🎯 Aktivitas Terbaru
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonihendra&theme=github-compact&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" alt="Activity Graph">
 </p>
 
 ---
