@@ -11,11 +11,11 @@
 
 <hr/>
 
-
+<h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=FFD700&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Open+Source+Enthusiast;Always+learning+new+things...;Welcome+to+my+GitHub+profile!+😄" alt="Typing Animation">
 </p>
-
+</h2>
 ---
 
 ### 🚀 Tentang Saya
