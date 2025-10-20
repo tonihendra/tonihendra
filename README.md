@@ -1,4 +1,16 @@
 <h1 align="center">👋 Halo, Saya <span style="color:#FFD700;">Dencuan</span></h1>
+<h3 align="center">P R O F I L E&nbsp;&nbsp;I N T R O D U C T I O N 👋</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonihendra&label=Profile%20views&color=8E44AD&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center"><i>It' me</i></p>
+
+<p align="center">🎉 Professional Node Validator & IBC Relayer 🎉</p>
+
+<hr/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=FFD700&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Open+Source+Enthusiast;Always+learning+new+things...;Welcome+to+my+GitHub+profile!+😄" alt="Typing Animation">
